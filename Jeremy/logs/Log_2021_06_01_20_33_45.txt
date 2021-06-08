@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property 'image' of undefined
+    at _isHookRopeEventThere (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SuperiorHookRope.js:1173:65)
+    at _hookRopeIdThere (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SuperiorHookRope.js:1188:22)
+    at Game_Temp.setDestination (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SuperiorHookRope.js:1471:35)
+    at Scene_Map.processMapTouch (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:697:27)
+    at Scene_Map.processMapTouch (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:3582:43)
+    at Scene_Map.processMapTouch (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32902:34)
+    at Scene_Map.updateDestination (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:680:14)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:588:10)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:20421:33)
+    at Scene_Map._.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:33172:19)
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property 'image' of undefined
+    at _isHookRopeEventThere (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SuperiorHookRope.js:1173:65)
+    at _hookRopeIdThere (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SuperiorHookRope.js:1188:22)
+    at Game_Temp.setDestination (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SuperiorHookRope.js:1471:35)
+    at Scene_Map.processMapTouch (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:697:27)
+    at Scene_Map.processMapTouch (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:3582:43)
+    at Scene_Map.processMapTouch (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:32902:34)
+    at Scene_Map.updateDestination (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:680:14)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:588:10)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:20421:33)
+    at Scene_Map._.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:33172:19)
+----------
